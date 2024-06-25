@@ -1,0 +1,7 @@
+1. В master больше коммитов, по разному проводилось слияние.
+2. 5 коммитов:
+    init
+    heat added
+    boots
+    Readme added
+    dots
